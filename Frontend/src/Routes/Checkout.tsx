@@ -32,7 +32,7 @@ import { FaChevronRight as RightArrow } from "react-icons/fa";
 import { FaRegCircleCheck as CircledTickIcon } from "react-icons/fa6";
 
 const Checkout = () => {
-  const URL = import.meta.env.VITE_URL || "http://localhost:8080";
+  const URL = import.meta.env.VITE_FRONTEND_URL || "http://localhost:8080";
   const toast = useToast();
   const navigate = useNavigate();
   const location = useLocation();

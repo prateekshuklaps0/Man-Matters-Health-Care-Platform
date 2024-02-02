@@ -1,16 +1,15 @@
-# Man-Matters 
+# Man-Matters
 
 Man-Matters is your one-stop destination for personalized health consultations with experienced doctors and curated products for skin, hair, and beard care. Book one-on-one consultations for expert medical advice and explore a range of quality products to enhance your skincare, haircare, and grooming routine.
 
 ## Table of Contents
+
 - [Features](#features)
 - [Tech Stack](#Tech-stack)
 - [Project Links](#Project-links)
 - [Screenshot](#Screenshot)
 - [Installation](#installation)
-- [Project Memebers](#Project-team)
-
-
+- [Project Members](#Project-team)
 
 ## Features
 
@@ -26,10 +25,10 @@ Man-Matters is your one-stop destination for personalized health consultations w
 - Admin has access to data visualization in chart format for insights.
 - Admin can manage users and products, including adding, updating, and deleting data.
 
-
 ## Tech Stack
 
 - Front-end:
+
   - Chakra UI for a visually appealing and responsive user interface.
   - React.js for building dynamic and interactive components.
   - Redux for global state management.
@@ -54,25 +53,27 @@ Man-Matters is your one-stop destination for personalized health consultations w
 - **Server:** [https://man-matters.onrender.com](https://man-matters.onrender.com/)
 
 ## Screenshot
+
 # User Side:
-![1](https://i.ibb.co/xhG0TjX/landing.png)
 
-![2](https://i.ibb.co/HTcpBk7/product.png)
+![1](./Assets/HomePage.JPG)
 
-![3](https://i.ibb.co/gyJbx1k/signle-Product.png)
+![5](./Assets/Appointment.JPG)
 
-![4](https://i.ibb.co/k06Qcwt/appointment.png)
+![4](./Assets/SelfAssessment.JPG)
 
-![5](https://i.ibb.co/zFZg9Kh/chat.png)
+![2](./Assets/Products.JPG)
 
-![6](https://i.ibb.co/gd7TZ93/cart.png)
+![3](./Assets/SingleProduct.JPG)
 
-![7](https://i.ibb.co/0FC5zYM/payment.png)
+![6](./Assets/Cart.JPG)
 
-![8](https://i.ibb.co/dBbhL4M/order-Placed.png)
+![7](./Assets/Checkout.JPG)
 
+![8](./Assets/OrderPlaced.JPG)
 
 # Admin Side:
+
 ![1](https://i.ibb.co/GkqX5Gw/Admin-Landing.png)
 
 ![2](https://i.ibb.co/YL7vgNK/admin-dashboard.png)
@@ -81,14 +82,14 @@ Man-Matters is your one-stop destination for personalized health consultations w
 
 ![4](https://i.ibb.co/W6g5ZdR/admin-CRUD.png)
 
-
 ## Installation
+
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/anshul-010/Man-Matters.git
+git clone https://github.com/prateekshuklaps0/Man-Matters-Health-Care-Platform.git
 ```
 
 ```bash
@@ -96,20 +97,21 @@ cd Man-Matters/Frontend
 ```
 
 run command in terminal
+
 ```
 npm install
 ```
 
 run project
+
 ```
 npm run dev
 ```
 
-
 ## Project Team
 
-- [Anshul Kushwah](https://github.com/anshul-010)
 - [Prateek Shukla](https://github.com/prateekshuklaps0)
+- [Anshul Kushwah](https://github.com/anshul-010)
 - [Shashikant Yadav](https://github.com/shashi310)
 - [Nitesh Chandrakar](https://github.com/niteshchandrakar)
 
